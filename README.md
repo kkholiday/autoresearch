@@ -1,3 +1,4 @@
+Autoresearch
 # autoresearch
 
 ![teaser](progress.png)
